@@ -28,4 +28,4 @@ Last part is the prediction results and suggestions. Once you complete those que
 ![Alt Text](https://github.com/TJmask/Python2-Final-Project/blob/main/Pictures/heart_disease_prediction.gif)
 
 
-##### Special thanks to Millie.
+* Special thanks to Millie.
