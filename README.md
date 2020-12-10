@@ -1,4 +1,4 @@
-# Python2-Final-Project
+# Python2 Final Project
 
 #### Team Member: Jiajie Yuan, Jie Tang
 
