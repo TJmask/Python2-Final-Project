@@ -22,5 +22,7 @@ Second, there are multiple questions below the graph. To know your probability o
 
 Last part is the prediction results and suggestions. Once you complete those questions, you will get an probability. If you find the probability is relatively high, we would suggest you visiting the link about heart disease provided and even going to see a doctor. 
 
+![Alt Text](https://github.com/TJmask/Python2-Final-Project/blob/main/Pictures/heart_disease_prediction.gif)
+
 
 #### Special thanks to Millie.
