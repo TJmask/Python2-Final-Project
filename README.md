@@ -21,3 +21,6 @@ First, there’s a feature importance graph of factors those have high impact on
 Second, there are multiple questions below the graph. To know your probability of having a heart disease, you just simply need answer those questions.  Below is showing you what questions we have.
 
 Last part is the prediction results and suggestions. Once you complete those questions, you will get an probability. If you find the probability is relatively high, we would suggest you visiting the link about heart disease provided and even going to see a doctor. 
+
+
+#### Special thanks to Millie.
